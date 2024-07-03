@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="map">
+    <file>jju.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>snow.png</file>
+  </qresource>
+</RCC>
